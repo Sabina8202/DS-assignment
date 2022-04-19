@@ -18,7 +18,7 @@
         </encoder>
     </appender>
 
-    <logger name="pt.ipb.dsys.peerbox" level="DEBUG" />
+    <logger name="pt.ipb.dsys.peer" level="DEBUG" />
 
     <root level="WARN">
         <appender-ref ref="file" />

@@ -1,8 +1,8 @@
-package pt.ipb.dsys.peerbox.util;
+package pt.ipb.dsys.peer.util;
 
-public class Sleeper {
+public interface Sleeper {
 
-    public static void sleep(long ms) {
+    static void sleep(long ms) {
         try {
             Thread.sleep(ms);
         } catch (InterruptedException ignore) {

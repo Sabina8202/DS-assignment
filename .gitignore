@@ -6,3 +6,4 @@ build
 !.idea/runConfigurations
 
 .DS_Store
+.java-version

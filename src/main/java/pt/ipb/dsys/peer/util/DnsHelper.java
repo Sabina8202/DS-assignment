@@ -1,4 +1,4 @@
-package pt.ipb.dsys.peerbox;
+package pt.ipb.dsys.peer.util;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;
