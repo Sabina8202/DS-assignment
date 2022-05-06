@@ -13,7 +13,7 @@ public class PeerRumour {
 
     public static final String CLUSTER_NAME = "PeerBox";
 
-    public static final String GOSSIP_HOSTNAME = "gossip-router"; // see container_name on docker-compose.yml
+    public static final String GOSSIP_HOSTNAME = "localhost"; // see container_name on docker-compose.yml
 
     public static final int GOSSIP_PORT = 12001;
 
